@@ -1,0 +1,5 @@
+name = "auth_worker"
+main = "index.js"
+compatibility_date = "2023-05-15"
+workers_dev = true
+account_id = "34244677811615a046ca99a920e2c5d0"
